@@ -10119,7 +10119,7 @@ body {
 
 #mainNav {
   min-height: 3.5rem;
-  background-color: #fff;
+  background-color: #333333;
 }
 #mainNav .navbar-toggler {
   font-size: 80%;
@@ -10136,7 +10136,7 @@ body {
   padding: 0.9rem 0;
 }
 #mainNav .navbar-nav .nav-item:hover {
-  color: fade(#fff, 80%);
+  color: fade(#333333, 80%);
   outline: none;
   background-color: transparent;
 }
