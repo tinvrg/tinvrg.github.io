@@ -201,9 +201,6 @@ img {
   vertical-align: middle;
   border-style: none;
 }
-img.rounded-corners {
-  border-radius: 30px;
-}
 svg {
   overflow: hidden;
   vertical-align: middle;
